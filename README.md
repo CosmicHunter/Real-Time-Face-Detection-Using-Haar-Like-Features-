@@ -16,4 +16,9 @@ We have simply used haarcascade xml files to load our cascades and perform real 
 * Open-cv is used for handling the video and frames.
 * We have used open-cv haarcascade xml files which can be found [open-cv haarcascades](https://github.com/opencv/opencv/tree/master/data/haarcascades)
 
+# Code files
+
+* face_recog.py is a commented python script that performs detection on face ,eyes on the data coming from video feed.
+* happyface_detector.py also detects when a person is smiling.
+
 
